@@ -4,7 +4,7 @@
 The HeyAnon Mobile App is a decentralized, Web3-enabled social platform that allows users to engage anonymously while maintaining privacy and security. The app provides seamless Ethereum-based wallet integration, advanced content moderation, and user engagement features. It targets privacy-conscious individuals who want to share content anonymously while being rewarded for their participation. The project aimed to deliver a user-centric, scalable, and secure mobile solution compatible with both iOS and Android devices.
 
 ### 🎯 Objectives
--Enable Secure and Anonymous Interaction: Implement dual authentication (Web3 and traditional) while preserving user anonymity.
+- Enable Secure and Anonymous Interaction: Implement dual authentication (Web3 and traditional) while preserving user anonymity.
 - Enhance User Engagement: Introduce interactive features like comments, upvotes, and real-time notifications to drive community participation.
 - Facilitate Web3 Transactions: Integrate an Ethereum-based wallet for in-app transactions, rewards, and tracking.
 - Optimize User Experience: Ensure smooth performance on both iOS and Android, with offline capabilities for content access.
